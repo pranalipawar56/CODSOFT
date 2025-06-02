@@ -1,4 +1,4 @@
 # CODSOFT
-My First Internship Projects/Tasks with CODSOFT
+My First Internship Projects/Tasks with elevate labs 
 <br>
 Author - Pranali Pawar
