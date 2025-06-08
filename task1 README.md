@@ -1,9 +1,9 @@
  #SUMMARY OF CHANGES
-Choosed sales file from kaggle.com
-reduced it to 100 entries
-removed the duplicate rows 
-filled the missing values using forward fill
-standerdized gender and country columns 
-converted data columns to datetime format
+<br>Choosed sales file from kaggle.com
+<br>reduced it to 100 entries
+<br>removed the duplicate rows 
+<br>filled the missing values using forward fill
+<br>standerdized gender and country columns 
+<br>converted data columns to datetime format
 <br>
 AUTHOR:-Pranali Pawar
